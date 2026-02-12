@@ -1,5 +1,5 @@
 This project was done as part of the Group Project Module at HSRW in WS25/26. It was done under requirements provided by [Innovatest](https://www.innovatest-europe.com/). 
-full Projects file: [Verificationator]]https://github.com/jcchincheong-bb/Verificationator_GP-WS25-26.git
+full Projects file: [Verificationator](https://github.com/jcchincheong-bb/Verificationator_GP-WS25-26.git)
 
 ### Abstract
 [![Product Showcase](https://img.youtube.com/vi/Xx_LVumxhoE/0.jpg)](https://www.youtube.com/watch?v=Xx_LVumxhoE)
